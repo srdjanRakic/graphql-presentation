@@ -1,2 +1,1 @@
-# graphql-presentation
-GraphQL Intro Presentation
+# InPlayer Knowledge Sharing GraphQL Presentation
